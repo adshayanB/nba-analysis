@@ -6,3 +6,8 @@ Documentation can be found here: https://pypi.org/project/nba-api/<br/>
        &nbsp;&nbsp;&nbsp;  2. Player Comparison<br/>
        &nbsp;&nbsp;&nbsp;  3. Team Anaylsis<br/>
        &nbsp;&nbsp;&nbsp;  4. Point Prediction (Machine Learning)<br/>
+## All Time Stats
+Used Jupyter Widgets and Plotly to create interative lists as well as charts to depict all time NBA stats <br/>
+<br/>Features:<br/>
+ &nbsp;&nbsp;&nbsp; 1. Interactive List of All Time Stats <br/>
+![All Time Stats List](https://media.giphy.com/media/XE78Hl1uaCFbL8Pl9t/giphy.gif)
