@@ -62,7 +62,7 @@ Required Packages:<br/>
                &nbsp;&nbsp;&nbsp;   6. Plotly<br/> 
                &nbsp;&nbsp;&nbsp;   7.Sklearn<br/>
                 &nbsp;&nbsp;&nbsp;   8.nba-api<br/>
-After Installing the Required Packages simply use the terminal to query into the folder you cloned the repo in and run the command *jupyter notebook*
+<br/><After Installing the Required Packages simply use the terminal to query into the folder you cloned the repo in and run the command *jupyter notebook*
                
                
         
