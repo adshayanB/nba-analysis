@@ -10,4 +10,4 @@ Documentation can be found here: https://pypi.org/project/nba-api/<br/>
 Used Jupyter Widgets and Plotly to create interative lists as well as charts to depict all time NBA stats <br/>
 <br/>**Features:**<br/>
  &nbsp;&nbsp;&nbsp; 1. Interactive List of All Time Stats <br/>
-![All Time Stats List](https://media.giphy.com/media/XE78Hl1uaCFbL8Pl9t/giphy.mp4)
+![All Time Stats List](https://media.giphy.com/media/XE78Hl1uaCFbL8Pl9t/giphy.gif)
