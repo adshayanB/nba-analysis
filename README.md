@@ -46,7 +46,7 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
  <br/>**Correlation Matrix:**<br/>
  <img src="https://i.imgur.com/91LNDkj.png" width="480" height="270"/><br/>
 <br/>
-<br/>**Model Scores:**<br/>
+<br/>**Model Scores:**
 <br/>Mean Absolute Error: 67.57841065663386
 <br/>Mean Squared Error: 8226.306123212107
 <br/>Root Mean Squared Error: 90.6989863405987
