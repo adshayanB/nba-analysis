@@ -43,5 +43,6 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
 
 ## Point Prediction
  Created a Linear Regression Model to predict the amount of points a player would score using 2018-2019 Regular Season NBA Data
- <br/><img src="https://i.imgur.com/91LNDkj.png" width="480" height="270"/><br/>
+ <br/>**Correlation Matrix:**<br/>
+ <img src="https://i.imgur.com/91LNDkj.png" width="480" height="270"/><br/>
 <br/>
