@@ -14,6 +14,6 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
 <br/>
  &nbsp;&nbsp;&nbsp; 2. Interactive Chart of All Time Stats <br/>
  
- <img src="https://media.giphy.com/media/XHjQxpyGDHQkU1Gp4g/giphy.gif" width="480" height="270"/><br/>
+ <img src="https://media.giphy.com/media/QDQido5dtQ8XWxBdpT/source.mp4" width="480" height="270"/><br/>
 
 
