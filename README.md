@@ -25,4 +25,9 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
 <br/>
  &nbsp;&nbsp;&nbsp; 2. Interactive Chart to Compare Players <br/>
  <img src="https://media.giphy.com/media/N3DMBZTbNHHJFKpdjl/giphy.gif" width="480" height="270"/><br/>
+ <br/>
+ &nbsp;&nbsp;&nbsp; 3. Other Features <br/>
+  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 1. All Time Career stats Data with Averages<br/>
+  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 2. All Time Career stats Data Comparison between Players
+ 
  
