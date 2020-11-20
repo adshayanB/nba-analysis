@@ -36,6 +36,7 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
  &nbsp;&nbsp;&nbsp; 1. View All Time Stats Per Team (Query For Team) <br/>
 <img src="https://media.giphy.com/media/htzrnaWz9sA0ONBTFw/giphy.gif" width="480" height="270"/><br/>
 <br/>
- &nbsp;&nbsp;&nbsp; 2. Interactive Chart to Compare Players <br/>
-
+ &nbsp;&nbsp;&nbsp; 2. Interactive Chart to view Win/Loss (Query for Regular,Pre and Post Seasons as well as Season Year and Team Data) <br/>
+<img src="https://media.giphy.com/media/j1uVxp1TZkAAn4l1UH/giphy.gif" width="480" height="270"/><br/>
+<br/>
  
