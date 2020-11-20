@@ -51,3 +51,14 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
 <br/>Mean Squared Error: 8226.306123212107
 <br/>Root Mean Squared Error: 90.6989863405987
 <br/>Model Accuracy: 0.9683556506013027
+
+## Cloning the Repo <br/>
+Required Packages:<br/>
+   &nbsp;&nbsp;&nbsp     1. Pandas <br/>
+   &nbsp;&nbsp;&nbsp     2. NumPy <br/>
+      &nbsp;&nbsp;&nbsp   3. Jupyter Notebook <br/>
+        &nbsp;&nbsp;&nbsp   4. Jupyter Widgets <br/>
+        &nbsp;&nbsp;&nbsp   5. Matplotlib<br/> &nbsp;&nbsp;&nbsp   6. Plotly<br/> &nbsp;&nbsp;&nbsp   7.Sklearn<br/>
+        
+        
+   
