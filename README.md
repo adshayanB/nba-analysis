@@ -6,7 +6,7 @@ Documentation can be found here: https://pypi.org/project/nba-api/<br/>
        &nbsp;&nbsp;&nbsp;  2. Player Comparison<br/>
        &nbsp;&nbsp;&nbsp;  3. Team Anaylsis<br/>
        &nbsp;&nbsp;&nbsp;  4. Point Prediction (Machine Learning)<br/>
- <br/> Frameworks Used: Pandas, NumPy, Sklearn, Matplotlib
+ <br/> Frameworks Used: Pandas, NumPy, Sklearn, Matplotlib, Plotly
 ## All Time Stats
 Used Jupyter Widgets and Plotly to create interative lists as well as charts to depict all time NBA stats <br/>
 <br/>**Features:**<br/>
@@ -46,3 +46,5 @@ Used Jupyter Widgets and Plotly to create interative lists as well as charts to 
  <br/>**Correlation Matrix:**<br/>
  <img src="https://i.imgur.com/91LNDkj.png" width="480" height="270"/><br/>
 <br/>
+<br/>**Model Scores:**<br/>
+<img src="https://i.imgur.com/LBkPyYt.png" width="480" height="270"/><br/>
